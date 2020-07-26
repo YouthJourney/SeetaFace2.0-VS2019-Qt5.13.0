@@ -1,0 +1,8 @@
+﻿  rcc MainWindow.qrc
+  moc MainWindow.h
+   RCC: Warning: No resources in 'E:\VSDocument\SeetaFace2.0\SeetaFace2.0\MainWindow.qrc'.
+  main.cpp
+  MainWindow.cpp
+  qrc_MainWindow.cpp
+  moc_MainWindow.cpp
+  SeetaFace2.0.vcxproj -> E:\VSDocument\SeetaFace2.0\x64\Release\SeetaFace2.0.exe
